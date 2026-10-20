@@ -34,7 +34,9 @@ if (headings.length > 2) {
   });
   outline.append(summary, list);
   const introduction = main.querySelector('.lede');
-  if (introduction) introduction.after(outline);
+  if (document.body.classList.contains('page-index')) {
+    main.querySelector('.explore-section').before(outline);
+  } else if (introduction) introduction.after(outline);
   else main.prepend(outline);
 }
 

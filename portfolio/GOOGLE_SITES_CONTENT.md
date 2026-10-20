@@ -5,15 +5,19 @@ This file provides the expanded page text for transfer into the existing Google 
 
 ---
 
-GRAPHICS DESIGN · LEARNING PORTFOLIO
+MELICIA PARKER / CREATIVE PORTFOLIO
 
-# Ideas made visual.
+# A little thought. A lot of design.
 
-Exploring the principles, elements and creative decisions that turn a message into a meaningful design.
+A collection of ideas, visual experiments and design thinking. Discover the colour, form and intention behind every composition.
 
-Explore the portfolio >
+Explore the portfolio →View coursework →
 
-FORM / COLOUR / COMMUNICATION
+ Introduction to Graphics Design · Mico University College
+
+STUDIES IN VISUAL THINKINGVOL. 01
+
+FORM. COLOUR. POSSIBILITY.+MADE TO COMMUNICATE
 
 THE PURPOSE
 
@@ -23,15 +27,57 @@ Welcome to this graphics design portfolio. Graphic design combines typography, i
 
 This portfolio connects design theory with visual demonstrations and practical coursework. Its purpose is to explain key concepts, explore responsible use of creative work, and show how design decisions support communication.
 
+THE NOTEBOOK
+
+## There’s a reason behind the design.
+
+Explore the ideas that shape the work.
+
+01↗
+
+### Creative rights
+
+Copyright in Jamaica
+
+02↗
+
+### Good design has a rhythm
+
+Principles of design
+
+03↗
+
+### Start with the essentials
+
+Elements of design
+
+04↗
+
+### Find your colour story
+
+Colour theory
+
+05↗
+
+### Choose your medium
+
+Raster & vector
+
+06↗
+
+### A little about the author
+
+Meet Melicia
+
 THE PRACTICE
 
-## Coursework collection
+## The coursework collection.
 
 Eight required artifacts
 
-The slots below are awaiting the student's original course artifacts. The generated theory illustrations elsewhere on this site are teaching examples, not evidence of completed coursework.
+A place for eight original course projects. The illustrated covers are category markers; coursework previews will appear here when the actual files are added.
 
-01
+Original coursework to add01
 
 ### House with Lines
 
@@ -39,7 +85,7 @@ Coursework file needed
 
 Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
 
-02
+Original coursework to add02
 
 ### Interactive PowerPoint
 
@@ -47,7 +93,7 @@ Coursework file needed
 
 Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
 
-03
+Original coursework to add03
 
 ### Basket of Fruits
 
@@ -55,7 +101,7 @@ Coursework file needed
 
 Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
 
-04
+Original coursework to add04
 
 ### Girl and House
 
@@ -63,7 +109,7 @@ Coursework file needed
 
 Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
 
-05
+Original coursework to add05
 
 ### Cartoon Graphic
 
@@ -71,7 +117,7 @@ Coursework file needed
 
 Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
 
-06
+Original coursework to add06
 
 ### Logo Design
 
@@ -79,7 +125,7 @@ Coursework file needed
 
 Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
 
-07
+Original coursework to add07
 
 ### Working with Text
 
@@ -87,7 +133,7 @@ Coursework file needed
 
 Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
 
-08
+Original coursework to add08
 
 ### Working with Animation
 
@@ -166,6 +212,8 @@ For the actual artifact, explain the timing, intended message, tools used and ex
 
 Creative work comes with rights—and responsibilities.
 
+Creative rights01 / 07
+
 ## What is copyright?
 
 Copyright protects original expression in qualifying works, including drawings, illustrations, photographs and other artistic works. It protects the expression of an idea rather than the general idea itself.
@@ -243,6 +291,8 @@ Official resources for checking the law: Jamaica Intellectual Property Office (h
 
 Principles describe how visual parts work together to guide attention and communicate.
 
+Structure & rhythm02 / 07
+
 ### Balance
 
 Balance distributes visual weight. Symmetrical balance mirrors forms; asymmetrical balance uses different forms that still feel stable.
@@ -294,6 +344,8 @@ These principles interact. Increasing contrast can create emphasis, while consis
 # The elements of design.
 
 Elements are the visual ingredients. Principles describe how we arrange them.
+
+The visual toolkit03 / 07
 
 ### Line
 
@@ -360,6 +412,8 @@ Typography is the selection and arrangement of type. Typeface, weight, size, lin
 
 Colour theory helps designers choose relationships that support mood, hierarchy and legibility.
 
+Palette & personality04 / 07
+
 A twelve-hue illustrative wheel, not a calibrated colour reference.
 
 ## The colour wheel
@@ -421,7 +475,7 @@ Do not use colour alone to show an error, category or status. Pair it with text,
 
 ## Colour decisions in this portfolio
 
-The cream background gives the layout a restrained base; dark green carries navigation and body text; terracotta draws attention to selected headings and accents. The repeated palette supports unity across pages, while typography and spacing provide additional hierarchy. Colour is reinforced by labels, headings and an underline on the current navigation item.
+The cream background gives the layout a restrained base; dark green carries navigation and body text; terracotta draws attention to selected headings and accents. Sage, peach, lilac and muted gold distinguish the illustrated cards without competing with the text. Repeating these colours across page motifs and coursework covers supports unity, while differences in shape, type size and spacing create hierarchy. Labels and an underline on the current navigation item reinforce meaning, so colour is not the only cue.
 
 ---
 
@@ -430,6 +484,8 @@ The cream background gives the layout a restrained base; dark green carries navi
 # Pixels or paths?
 
 Choose the format that suits the artwork and its intended size.
+
+Made for the medium05 / 07
 
 ### Raster graphics
 
@@ -492,6 +548,8 @@ Tracing creates paths from a raster reference, either manually or automatically.
 # Behind the portfolio.
 
 Melicia Parker · Introduction to Graphics Design
+
+Meet the designer06 / 07
 
 Student name: Melicia Parker
 Course: Introduction to Graphics Design

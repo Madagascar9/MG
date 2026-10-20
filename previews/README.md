@@ -1,5 +1,9 @@
 # Portfolio page previews
 
+[Open the redesigned homepage cover](home-cover.png)
+
+![Redesigned homepage cover](home-cover.png)
+
 These screenshots show the website draft, not the Google Sites editor. Click any page name to open its full screenshot.
 
 1. [Home](index.png)

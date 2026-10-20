@@ -33,3 +33,7 @@ Browser checks covered all eight pages at desktop and mobile widths, navigation,
 ## Reference portfolio
 
 The student supplied `https://sites.google.com/view/portefeuillekennyb/artifacts` as an example. It could not be viewed because the current environment blocks that hostname. No claim of inspecting or copying its content is made. Network-domain additions were saved as a configuration draft, not applied to the live environment.
+
+## Visual presentation
+
+The responsive design uses an original geometric cover illustration, a cream/forest-green base with sage, peach, lilac and gold accents, illustrated navigation cards, section motifs, and clearly labelled category covers for the pending coursework. Covers are decorative category markers rather than completed student artifacts. All assets remain local, with no external font or image dependency.
