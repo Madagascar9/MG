@@ -36,3 +36,9 @@ Browser checks covered all eight pages at desktop and mobile widths, navigation,
 The responsive design uses an original geometric cover illustration, a cream/forest-green base with sage, peach, lilac and gold accents, illustrated navigation cards, section motifs, and clearly labelled category covers for the pending coursework. Covers are decorative category markers rather than completed student artifacts. All assets remain local, with no external font or image dependency.
 
 The eight project categories, design-skills overview and animation teaching demonstration are on `artefacts.html`. The Home page links to that collection. The primary navigation contains nine pages.
+
+## Page images and navigation
+
+`assets/banners/README.md` is the labelled gallery of nine AI-generated photographic-style banners. `GOOGLE_SITES_VISUAL_GUIDE.md` explains how to download the files, use them in Google Sites, and create a consistent page-to-page flow. These banners are separate from the practical coursework.
+
+The local HTML site includes Previous/Next links and progressive cross-document view transitions. Supporting browsers use a short fade; other browsers keep ordinary navigation. Reduced-motion preferences disable the effect. Google Sites does not inherit these CSS effects.

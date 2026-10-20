@@ -92,3 +92,22 @@ footer{background:var(--ink);color:var(--paper);border:0;font-size:10px;padding:
 
 .page-artefacts .page-motif{background:var(--sage)}
 .references a{overflow-wrap:anywhere}
+
+/* Native cross-document transitions progressively enhance supported browsers. */
+@view-transition{navigation:auto}
+::view-transition-old(root){animation:page-fade-out .14s ease both}
+::view-transition-new(root){animation:page-fade-in .22s ease both}
+@keyframes page-fade-out{to{opacity:0}}
+@keyframes page-fade-in{from{opacity:0}to{opacity:1}}
+.page-journey{display:grid;grid-template-columns:1fr 1.4fr;gap:25px;align-items:stretch;margin-top:70px;padding-top:30px;border-top:1px solid var(--line);width:100%}
+.page-journey>a{display:flex;flex-direction:column;justify-content:center;padding:25px;border:1px solid var(--line);border-radius:8px;text-decoration:none;transition:background .18s,border-color .18s}
+.page-journey>a:hover{background:#edf0e4;border-color:var(--ink)}
+.page-journey span{font-size:10px;letter-spacing:1.4px;text-transform:uppercase;color:var(--muted)}
+.page-journey strong{font:normal 28px Georgia,serif;line-height:1.2;margin-top:10px}
+.page-journey p{font-size:13px;line-height:1.7;margin:13px 0 0;color:var(--muted)}
+.page-journey .journey-next{background:#e9eddf}
+.journey-intro{padding:25px 0}
+.page-banner{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:8px;display:block;margin:0 0 35px}
+@media(max-width:650px){.page-journey{grid-template-columns:1fr;gap:15px;margin-top:45px}.page-journey strong{font-size:25px}.journey-intro{padding:0 0 5px}.page-journey>a{padding:22px}}
+@media(prefers-reduced-motion:reduce){@view-transition{navigation:none}::view-transition-old(root),::view-transition-new(root){animation:none}.page-journey>a{transition:none}}
+.page-photo{margin:0;width:100%;max-width:390px;justify-self:end}.page-photo img{display:block;width:100%;height:300px;object-fit:cover;object-position:75% center;border-radius:100px 100px 8px 8px}.home-photo{margin:15px 0 40px}.home-photo img{display:block;width:100%;height:auto;aspect-ratio:2.5/1;object-fit:cover;object-position:center 55%;border-radius:8px}@media(max-width:800px){.page-photo img{height:260px}}@media(max-width:650px){.page-photo{max-width:none;justify-self:stretch}.page-photo img{height:auto;aspect-ratio:16/9;border-radius:8px;object-position:center}.home-photo{margin:30px 0}.home-photo img{aspect-ratio:16/9}}

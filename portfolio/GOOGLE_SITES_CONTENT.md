@@ -87,6 +87,14 @@ A successful design does more than decorate a page: it makes a message easier to
 - Evaluate and revise. Check accuracy, legibility, visual hierarchy and accessibility. Test the design at its intended size.
 - Export and reflect. Keep the editable master, export a suitable presentation file and explain what worked and what could improve.
 
+THE LEARNING JOURNEY
+
+One idea leads to the next.
+
+Next pageCopyright in Jamaica →
+
+Create with confidence and respect for creative rights.
+
 ---
 
 01 / RESPONSIBLE PRACTICE
@@ -94,8 +102,6 @@ A successful design does more than decorate a page: it makes a message easier to
 # Copyright in Jamaica.
 
 Creative work comes with rights—and responsibilities.
-
-Creative rights01 / 08
 
 ## What is copyright?
 
@@ -164,6 +170,10 @@ A useful credit records: Creator — Title — Source link — Licence — Chang
 
 Official resources for checking the law: Jamaica Intellectual Property Office (https://www.jipo.gov.jm/) and WIPO Lex: Jamaica (https://www.wipo.int/wipolex/en/legislation/members/profile/JM).
 
+Previous page← HomeNext pageDesign Principles →
+
+See how structure brings a composition together.
+
 ---
 
 02 / COMPOSITION
@@ -171,8 +181,6 @@ Official resources for checking the law: Jamaica Intellectual Property Office (h
 # Principles that bring order.
 
 Principles describe how visual parts work together to guide attention and communicate.
-
-Structure & rhythm02 / 08
 
 ### Balance
 
@@ -218,6 +226,10 @@ This demonstration uses a large title to establish emphasis. A smaller subtitle 
 
 These principles interact. Increasing contrast can create emphasis, while consistent alignment and repetition can support unity. They are tools for making purposeful choices rather than rules requiring every design to look identical.
 
+Previous page← Copyright in JamaicaNext pageDesign Elements →
+
+Explore the building blocks of visual communication.
+
 ---
 
 03 / THE BUILDING BLOCKS
@@ -225,8 +237,6 @@ These principles interact. Increasing contrast can create emphasis, while consis
 # The elements of design.
 
 Elements are the visual ingredients. Principles describe how we arrange them.
-
-The visual toolkit03 / 08
 
 ### Line
 
@@ -285,6 +295,10 @@ Typography is the selection and arrangement of type. Typeface, weight, size, lin
  | Avoid stretching letterforms | Use proper type weights and sizes rather than distorting text horizontally or vertically.
  | Keep important text as text where practical | Selectable text is generally easier to search, resize and access than text baked into an image.
 
+Previous page← Design PrinciplesNext pageColour Theory →
+
+Discover how colour relationships shape a message.
+
 ---
 
 04 / COLOUR & EXPRESSION
@@ -292,8 +306,6 @@ Typography is the selection and arrangement of type. Typeface, weight, size, lin
 # Colour with intention.
 
 Colour theory helps designers choose relationships that support mood, hierarchy and legibility.
-
-Palette & personality04 / 08
 
 A traditional twelve-hue colour wheel.
 
@@ -358,6 +370,10 @@ Do not use colour alone to show an error, category or status. Pair it with text,
 
 The cream background gives the layout a restrained base; dark green carries navigation and body text; terracotta draws attention to selected headings and accents. Sage, peach, lilac and muted gold distinguish the illustrated cards without competing with the text. Repeating these colours across page motifs and coursework covers supports unity, while differences in shape, type size and spacing create hierarchy. Labels and an underline on the current navigation item reinforce meaning, so colour is not the only cue.
 
+Previous page← Design ElementsNext pageRaster & Vector →
+
+Choose the right medium for the final design.
+
 ---
 
 05 / DIGITAL FORMATS
@@ -365,8 +381,6 @@ The cream background gives the layout a restrained base; dark green carries navi
 # Pixels or paths?
 
 Choose the format that suits the artwork and its intended size.
-
-Made for the medium05 / 08
 
 ### Raster graphics
 
@@ -422,6 +436,10 @@ Tracing creates paths from a raster reference, either manually or automatically.
 - Use descriptive file names and retain a source-file link when the assignment needs evidence of process or interactivity.
 - Test every link and confirm that viewers have permission to open it.
 
+Previous page← Colour TheoryNext pageArtefacts →
+
+Connect the theory with the practical collection.
+
 ---
 
 06 / THE PRACTICAL COLLECTION
@@ -429,8 +447,6 @@ Tracing creates paths from a raster reference, either manually or automatically.
 # Ideas put into practice.
 
 Eight coursework projects, each with a story to tell. Explore the work, the tools and the thinking behind it.
-
-The coursework collection06 / 08
 
 THE PRACTICE
 
@@ -524,6 +540,10 @@ Play demonstration
 
 The circle eases between two positions to demonstrate timing and movement. Use the play and pause control to compare motion with a static composition. Reduced-motion preferences are respected.
 
+Previous page← Raster & VectorNext pageAuthor →
+
+Meet the student behind the portfolio.
+
 ---
 
 07 / THE DESIGNER
@@ -531,8 +551,6 @@ The circle eases between two positions to demonstrate timing and movement. Use t
 # Behind the portfolio.
 
 Melicia Parker · Introduction to Graphics Design
-
-Meet the designer07 / 08
 
 Student name: Melicia Parker
 Course: Introduction to Graphics Design
@@ -544,6 +562,10 @@ Assignment due date: November 30, 2026
 ## Student bio
 
 My name is Melicia Parker, and this portfolio is prepared for Introduction to Graphics Design at Mico University College. It explores design concepts, visual communication and practical coursework, with attention to responsible use of creative material and purposeful visual choices.
+
+Previous page← ArtefactsNext pageBibliography →
+
+Explore the sources supporting the portfolio.
 
 ---
 
@@ -565,4 +587,8 @@ My name is Melicia Parker, and this portfolio is prepared for Introduction to Gr
 
 ## Visual credits
 
-The explanatory text, illustrations and interactive learning demonstrations were developed with AI assistance. Coursework artifacts are identified separately on the Artefacts page.
+The explanatory text, photographic-style banners, illustrations and interactive learning demonstrations were developed with AI assistance. Coursework artifacts are identified separately on the Artefacts page.
+
+Previous page← AuthorReturn to the beginningHome →
+
+Begin with the ideas behind the work.
