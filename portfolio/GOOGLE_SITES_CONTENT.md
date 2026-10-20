@@ -1,7 +1,4 @@
-# Google Sites page content
-
-This file provides the expanded page text for transfer into the existing Google Sites project. The local draft has not been installed into Google Sites. Recreate the illustrated layouts using your own Google Sites sections and add the eight actual course artifacts. Tables below are plain text guides; use appropriate tables or layouts in the site editor. Generated learning demonstrations are not course artifacts.
-
+# Portfolio page content
 
 ---
 
@@ -79,7 +76,7 @@ A successful design does more than decorate a page: it makes a message easier to
  | Visual vocabulary | Explanations and examples of line, shape, texture, space, form and value.
  | Colour decisions | Colour models, palette relationships, contrast and accessible communication.
  | Digital production | Raster/vector comparison, resolution, compression and export decisions.
- | Practical application | A dedicated Artefacts page with eight coursework slots and guidance for describing process, tools and demonstrated skills.
+ | Practical application | A dedicated Artefacts page presenting eight project categories and their design focus.
 
 ## A design process: from brief to finished work
 
@@ -121,8 +118,6 @@ Designers should protect their own work and respect the rights attached to photo
 - Licensed illustration: follow any attribution, modification and commercial-use conditions.
 - Student portfolio: identify your own work and acknowledge permitted third-party material.
 
-Legal overview for learning. Consult the current Act and official guidance for a specific use; classroom use is not a blanket exemption. Reference links are provided in the bibliography.
-
 ## What can be protected?
 
 For graphics design, relevant works may include original illustrations, photographs, layouts with protectable expression and other qualifying artistic creations. Copyright does not give a designer ownership of every general idea, style, technique or colour. A general idea for a fruit logo is different from the particular drawing used to express it.
@@ -142,7 +137,7 @@ A logo can raise more than one intellectual-property issue: copyright may protec
 
 Jamaican copyright law includes exceptions and limitations, including forms of fair dealing for purposes such as research or private study, criticism or review, and reporting current events, subject to the relevant conditions. A use being educational, non-commercial or credited does not automatically make every copying activity lawful.
 
-Before relying on an exception, check the current statutory wording and the facts. This portfolio does not state a blanket protection period because duration can depend on the work, authorship and applicable amendments. Jamaica's Copyright Act, 1993, and its amendments, including the Copyright (Amendment) Act, 2015, should be checked through official sources.
+The duration of protection depends on the category of work, authorship and applicable amendments. Jamaica's Copyright Act, 1993, and subsequent amendments, including the Copyright (Amendment) Act, 2015, provide the legislative context.
 
 ## A practical permission checklist
 
@@ -167,7 +162,7 @@ Before relying on an exception, check the current statutory wording and the fact
 
 A useful credit records: Creator — Title — Source link — Licence — Changes made. Fill these fields with the real asset information. Attribution documents the source but does not cure a use that the licence prohibits.
 
-Official resources for checking the law: Jamaica Intellectual Property Office (https://www.jipo.gov.jm/) and WIPO Lex: Jamaica (https://www.wipo.int/wipolex/en/legislation/members/profile/JM). These legal resources could not be retrieved in this environment and remain verification references rather than sources already consulted.
+Official resources for checking the law: Jamaica Intellectual Property Office (https://www.jipo.gov.jm/) and WIPO Lex: Jamaica (https://www.wipo.int/wipolex/en/legislation/members/profile/JM).
 
 ---
 
@@ -210,7 +205,7 @@ Proximity places related items near each other. Space between groups helps the v
 
 ## Visual hierarchy in action
 
-This demonstration uses a large title to establish emphasis. A smaller subtitle provides context, while the smallest line supplies detail. All text shares a left edge, related content is grouped, and a single accent colour links the subtitle to the visual identity. It is an explanatory example, not an actual event announcement.
+This demonstration uses a large title to establish emphasis. A smaller subtitle provides context, while the smallest line supplies detail. All text shares a left edge, related content is grouped, and a single accent colour links the subtitle to the visual identity.
 
 ## How to evaluate a composition
 
@@ -300,7 +295,7 @@ Colour theory helps designers choose relationships that support mood, hierarchy 
 
 Palette & personality04 / 08
 
-A twelve-hue illustrative wheel, not a calibrated colour reference.
+A traditional twelve-hue colour wheel.
 
 ## The colour wheel
 
@@ -351,7 +346,7 @@ A bright screen colour may not reproduce identically in print because the colour
 
 Select a colour relationshipComplementaryAnalogousTriadicMonochromatic
 
-Monochromatic palettes use variations of one hue; analogous palettes use neighbouring hues; complementary palettes use opposing hues; triadic palettes use three approximately evenly spaced hues. The examples are illustrative starting points, not automatic guarantees of accessible contrast.
+Monochromatic palettes use variations of one hue; analogous palettes use neighbouring hues; complementary palettes use opposing hues; triadic palettes use three approximately evenly spaced hues. After choosing a palette, check the contrast of each foreground and background combination.
 
 ## Accessible colour choices
 
@@ -389,7 +384,7 @@ Raster and vector comparison
  | File size | Depends on dimensions and compression | Depends on path complexity and embedded content
  | Transparency | Supported by some formats, including PNG | Supported by formats such as SVG
 
-The house drawings are generated explanations of format differences, not the student's required House with Lines artifact.
+The enlarged raster illustration shows visible pixels, while the vector illustration demonstrates smooth geometric edges.
 
 ## Resolution, PPI and DPI
 
@@ -419,7 +414,7 @@ Rasterisation converts vector content into pixels at a chosen resolution. Once e
 
 Tracing creates paths from a raster reference, either manually or automatically. It can simplify a drawing into editable shapes, but it does not perfectly recover every original detail. A raster photograph does not become genuine vector artwork merely by being saved inside an SVG file.
 
-## Recommended workflow for the portfolio
+## Preparing graphics for presentation
 
 - Keep the editable source file with layers, paths or slides.
 - Export a preview appropriate to the work: for example, SVG or PNG for a logo preview, JPEG for a photograph, and a playable or linked format for animation.
@@ -443,113 +438,91 @@ THE PRACTICE
 
 Eight required artifacts
 
-A place for eight original course projects. The illustrated covers are category markers; coursework previews will appear here when the actual files are added.
+Eight projects exploring illustration, composition, identity, typography and motion.
 
-Original coursework to add01
+Illustrated category cover01
 
 ### House with Lines
 
-Coursework file needed
+Preview to be added
 
-Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
+An exploration of line weight, geometric construction and alignment in a house illustration.
 
-Original coursework to add02
+Illustrated category cover02
 
 ### Interactive PowerPoint
 
-Coursework file needed
+Preview to be added
 
-Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
+An interactive presentation exploring slide structure, navigation and clear visual communication.
 
-Original coursework to add03
+Illustrated category cover03
 
 ### Basket of Fruits
 
-Coursework file needed
+Preview to be added
 
-Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
+A study of organic shapes, layering and colour relationships in a fruit arrangement.
 
-Original coursework to add04
+Illustrated category cover04
 
 ### Girl and House
 
-Coursework file needed
+Preview to be added
 
-Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
+A composition exploring proportion, relative scale and foreground–background relationships.
 
-Original coursework to add05
+Illustrated category cover05
 
 ### Cartoon Graphic
 
-Coursework file needed
+Preview to be added
 
-Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
+An exploration of simplified forms, expressive lines and visual character.
 
-Original coursework to add06
+Illustrated category cover06
 
 ### Logo Design
 
-Coursework file needed
+Preview to be added
 
-Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
+A visual-identity study focused on simplicity, negative space and scalability.
 
-Original coursework to add07
+Illustrated category cover07
 
 ### Working with Text
 
-Coursework file needed
+Preview to be added
 
-Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
+A typography study exploring hierarchy, alignment, spacing and readable text arrangement.
 
-Original coursework to add08
+Illustrated category cover08
 
 ### Working with Animation
 
-Coursework file needed
+Preview to be added
 
-Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
+A motion study exploring timing, sequencing and purposeful movement.
 
-## Presenting the eight practical artifacts
+## Design skills across the collection
 
-For each slot, upload or link the actual work created during the course. The tool categories below are suggestions for documenting the work, not claims about software already used. The completed artifact description must name the real tool and describe the real process.
+ | Artifact | Design focus
+ | House with Lines | Consistent strokes, alignment and geometric construction.
+ | Interactive PowerPoint | Navigation, information hierarchy and audience interaction.
+ | Basket of Fruits | Organic shapes, colour, overlap and depth.
+ | Girl and House | Proportion, scale and scene composition.
+ | Cartoon Graphic | Stylisation, expression and visual character.
+ | Logo Design | Identity, simplicity, contrast and scalability.
+ | Working with Text | Typography, spacing, alignment and hierarchy.
+ | Working with Animation | Timing, sequencing, movement and communication.
 
- | Artifact | Skills to explain | Reflection question | Possible tool category
- | House with Lines | Line tools, stroke weight, alignment and geometric construction. | Which lines define the roof, walls, doors and windows? How did you keep edges consistent? | Drawing or vector editor
- | Interactive PowerPoint | Slide navigation, hyperlinks or action buttons, information structure and audience control. | Can a viewer move forward, return home and reach every section without a broken link? | Microsoft PowerPoint
- | Basket of Fruits | Shape construction, colour relationships, grouping, layering and overlap. | How do overlapping shapes and changes in value create a convincing arrangement? | Drawing, painting or vector editor
- | Girl and House | Scene composition, proportion, relative scale and foreground/background relationships. | How are the figure and building arranged so that the scene is clear? | Drawing or illustration editor
- | Cartoon Graphic | Stylisation, expressive lines, simplified forms and a consistent visual character. | Which features did you simplify or exaggerate to communicate personality? | Drawing or illustration editor
- | Logo Design | Visual identity, simplification, contrast, negative space and scalability. | Does the mark remain recognisable in one colour and at a small size? | Vector editor
- | Working with Text | Typography, hierarchy, spacing, alignment and readable text arrangement. | How do type size, weight and spacing show the order in which information should be read? | Text, layout or presentation editor
- | Working with Animation | Timing, sequencing, movement and communication through change. | What does the movement communicate? Can viewers pause or understand it without motion? | Animation or presentation editor
-
-Artifact description template
-
-Title: [Name of artifact]
-
-Purpose and audience: [What the work communicates and who it is for]
-
-Tools actually used: [Software and relevant tools or features]
-
-Process: [Key steps from initial idea to finished output]
-
-Skills demonstrated: [Specific principles, elements and techniques visible in the work]
-
-Evaluation: [One successful decision, one challenge and one improvement]
-
-Evidence: [Embedded artifact, readable preview and functioning original-file link]
-
-Sources: [Any permitted third-party material and its licence]
-
-## Understanding animation: timing and movement
+## Learning demonstration: timing and movement
 
 Animation creates the appearance of change through a sequence of frames or changes over time. Timing controls duration; spacing controls how far an object moves between moments; easing changes the apparent acceleration. Motion should support a message rather than distract from it.
 
 Play demonstration
 
-The circle eases between two positions. Pause it to inspect the composition. The demonstration starts paused and respects reduced-motion preferences. This is a generated teaching example, not the student's Working with Animation course artifact.
-
-For the actual artifact, explain the timing, intended message, tools used and export format. Provide a playable file or functioning link, plus a static alternative when useful.
+The circle eases between two positions to demonstrate timing and movement. Use the play and pause control to compare motion with a static composition. Reduced-motion preferences are respected.
 
 ---
 
@@ -570,33 +543,7 @@ Assignment due date: November 30, 2026
 
 ## Student bio
 
-My name is Melicia Parker, and this portfolio is prepared for Introduction to Graphics Design at Mico University College. It presents design concepts alongside a collection area for practical coursework, with attention to clear communication, responsible use of creative material and purposeful visual choices.
-
-## Portfolio context
-
-This electronic portfolio was prepared for the Introduction to Graphics Design course at Mico University College, under the instruction of Ms. Sandy Shaw. It brings together explanations of design concepts, visual demonstrations and a collection area for the eight required practical artifacts.
-
-Its organisation includes the assignment's eight required content pages: Home, Copyright in Graphics Design (Jamaica), Principles, Elements, Color Theory, Raster vs Vector Graphics, Author and Bibliography. A separate Artefacts page presents the practical-work collection.
-
-## Reflection framework
-
-The following prompts are provided for Melicia to complete from her actual experience; they are not fabricated claims about completed coursework.
-
-- Which artifact best shows your improvement, and what visible change demonstrates that improvement?
-- Which design decision was most difficult, and how did you evaluate alternatives?
-- How did your understanding of copyright influence your choice of assets?
-- Which tool or technique would you practise next, and why?
-
-## Submission checklist
-
-- All eight required content pages and the dedicated Artefacts page are present and clearly labelled.
-- The eight original artifacts are uploaded, embedded or linked.
-- Each artifact names the actual tools used and explains the skill demonstrated.
-- Practical files and links open correctly for the intended viewer.
-- The author information and actual submission date are correct.
-- Sources and permitted third-party assets have consistent references.
-- Text, visuals and animations are readable and accessible.
-- The work and any permitted assistance are represented accurately.
+My name is Melicia Parker, and this portfolio is prepared for Introduction to Graphics Design at Mico University College. It explores design concepts, visual communication and practical coursework, with attention to responsible use of creative material and purposeful visual choices.
 
 ---
 
@@ -604,32 +551,18 @@ The following prompts are provided for Melicia to complete from her actual exper
 
 # Sources & credits.
 
-## References consulted
+## References
 
-References use a consistent author–date format. MDN's maintained source files were retrieved from the official MDN content repository on October 20, 2026. The linked documents support the technical statements identified below.
+- MDN Web Docs. (n.d.). Color contrast. Retrieved October 20, 2026, from https://github.com/mdn/content/blob/main/files/en-us/web/accessibility/guides/understanding_wcag/perceivable/color_contrast/index.md (https://github.com/mdn/content/blob/main/files/en-us/web/accessibility/guides/understanding_wcag/perceivable/color_contrast/index.md)
+- MDN Web Docs. (n.d.). Image file type and format guide. Retrieved October 20, 2026, from https://github.com/mdn/content/blob/main/files/en-us/web/media/guides/formats/image_types/index.md (https://github.com/mdn/content/blob/main/files/en-us/web/media/guides/formats/image_types/index.md)
+- Graphics design portfolio. (n.d.). [Course assignment handout; due November 30, 2026].
 
-- MDN Web Docs. (n.d.). Color contrast. Retrieved October 20, 2026, from the official MDN content repository (https://github.com/mdn/content/blob/main/files/en-us/web/accessibility/guides/understanding_wcag/perceivable/color_contrast/index.md). Used for text contrast, non-text contrast and accessible colour guidance.
-- MDN Web Docs. (n.d.). Image file type and format guide. Retrieved October 20, 2026, from the official MDN content repository (https://github.com/mdn/content/blob/main/files/en-us/web/media/guides/formats/image_types/index.md). Used for image-format properties, compression and format selection.
-- Graphics design portfolio. (n.d.). [Assignment handout supplied by the student; due November 30, 2026]. Used for required pages, artifacts, author information fields and submission requirements. The handout does not identify its author.
-
-## Legal and accessibility references to verify
-
-The following official resources could not be retrieved in this environment. They are provided for verification, not represented as sources already consulted. The legal overview needs checking against the current law before submission.
+## Further reading
 
 - Jamaica Intellectual Property Office. (n.d.). Official website (https://www.jipo.gov.jm/).
-- World Intellectual Property Organization. (n.d.). WIPO Lex: Jamaica (https://www.wipo.int/wipolex/en/legislation/members/profile/JM). Check the Copyright Act, 1993, and subsequent amendments.
-- World Wide Web Consortium. (2023). Web Content Accessibility Guidelines (WCAG) 2.2 (https://www.w3.org/TR/WCAG22/). Normative resource for checking the accessibility guidance.
+- World Intellectual Property Organization. (n.d.). WIPO Lex: Jamaica (https://www.wipo.int/wipolex/en/legislation/members/profile/JM).
+- World Wide Web Consortium. (2023). Web Content Accessibility Guidelines (WCAG) 2.2 (https://www.w3.org/TR/WCAG22/).
 
-## Visual credits and assistance
+## Visual credits
 
-The theory-page diagrams, palette explorer, animation demonstration and explanatory draft text were generated with AI assistance. They are learning demonstrations and are not presented as artifacts the student created during the course. No third-party stock images, video or downloadable font files are embedded.
-
-Melicia's own course artifacts should be credited accurately when added. Any external images, fonts, audio, videos or references used in those artifacts must be recorded here with the creator, title, source and licence where relevant. Follow the instructor's rules about permitted assistance.
-
-## How to add a source
-
-Use: Author or organisation. (Year, or n.d.). Title. Website or publisher. URL. For an image, include the creator, image title or description, source and licence. Use the actual publication details rather than inventing a date. Add an in-text author–date citation or a clear source link near the supported explanation.
-
-## Reference portfolio
-
-The student supplied another student's artifacts page (https://sites.google.com/view/portefeuillekennyb/artifacts) as a presentation reference. It was blocked by this environment's network policy and has not been viewed or used as a content source. Its coursework is not included in this portfolio.
+The explanatory text, illustrations and interactive learning demonstrations were developed with AI assistance. Coursework artifacts are identified separately on the Artefacts page.

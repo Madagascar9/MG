@@ -30,12 +30,9 @@ The content pages now include applied design analysis, typography guidance, colo
 
 Browser checks covered all eight pages at desktop and mobile widths, navigation, mobile-menu operation, section anchors, four palette choices, motion play/pause, reduced-motion behaviour and JavaScript errors. All checks passed in the current environment.
 
-## Reference portfolio
-
-The student supplied `https://sites.google.com/view/portefeuillekennyb/artifacts` as an example. It could not be viewed because the current environment blocks that hostname. No claim of inspecting or copying its content is made. Network-domain additions were saved as a configuration draft, not applied to the live environment.
 
 ## Visual presentation
 
 The responsive design uses an original geometric cover illustration, a cream/forest-green base with sage, peach, lilac and gold accents, illustrated navigation cards, section motifs, and clearly labelled category covers for the pending coursework. Covers are decorative category markers rather than completed student artifacts. All assets remain local, with no external font or image dependency.
 
-The eight coursework slots, artifact-description guidance and animation teaching demonstration are on `artefacts.html`. The Home page links to that collection. The primary navigation contains nine pages.
+The eight project categories, design-skills overview and animation teaching demonstration are on `artefacts.html`. The Home page links to that collection. The primary navigation contains nine pages.
