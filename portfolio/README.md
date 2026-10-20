@@ -1,6 +1,6 @@
 # Graphics design portfolio
 
-Eight static HTML pages based on the uploaded portfolio assignment. No packages or build are required.
+Nine static HTML pages based on the uploaded portfolio assignment. No packages or build are required.
 
 Run from this directory:
 
@@ -22,7 +22,7 @@ Sites was requested but no Sites tools were available in the session. These file
 
 ## Expanded content
 
-The eight pages now include applied design analysis, typography guidance, colour models, palette relationships, a palette explorer, resolution and export guidance, a motion demonstration, legal-use scenarios, practical-artifact reflection prompts and referenced technical explanations. Tables of contents are generated for longer pages. Motion starts paused and respects reduced-motion preferences.
+The content pages now include applied design analysis, typography guidance, colour models, palette relationships, a palette explorer, resolution and export guidance, a motion demonstration, legal-use scenarios, practical-artifact reflection prompts and referenced technical explanations. Tables of contents are generated for longer pages. Motion starts paused and respects reduced-motion preferences.
 
 `GOOGLE_SITES_CONTENT.md` contains the page text for copying into the Google Sites editor. Images and interactive features must be recreated or embedded using supported Google Sites features; this repository does not automatically update Google Sites.
 
@@ -37,3 +37,5 @@ The student supplied `https://sites.google.com/view/portefeuillekennyb/artifacts
 ## Visual presentation
 
 The responsive design uses an original geometric cover illustration, a cream/forest-green base with sage, peach, lilac and gold accents, illustrated navigation cards, section motifs, and clearly labelled category covers for the pending coursework. Covers are decorative category markers rather than completed student artifacts. All assets remain local, with no external font or image dependency.
+
+The eight coursework slots, artifact-description guidance and animation teaching demonstration are on `artefacts.html`. The Home page links to that collection. The primary navigation contains nine pages.

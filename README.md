@@ -1,6 +1,6 @@
 # Graphics design portfolio
 
-A responsive eight-page portfolio for Melicia Parker's Introduction to Graphics Design course at Mico University College. Instructor: Ms. Sandy Shaw.
+A responsive nine-page portfolio for Melicia Parker's Introduction to Graphics Design course at Mico University College. Instructor: Ms. Sandy Shaw.
 
 The website is in `portfolio/`. It runs without a package installation or build step:
 

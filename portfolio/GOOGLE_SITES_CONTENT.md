@@ -69,78 +69,6 @@ Raster & vector
 
 Meet Melicia
 
-THE PRACTICE
-
-## The coursework collection.
-
-Eight required artifacts
-
-A place for eight original course projects. The illustrated covers are category markers; coursework previews will appear here when the actual files are added.
-
-Original coursework to add01
-
-### House with Lines
-
-Coursework file needed
-
-Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
-
-Original coursework to add02
-
-### Interactive PowerPoint
-
-Coursework file needed
-
-Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
-
-Original coursework to add03
-
-### Basket of Fruits
-
-Coursework file needed
-
-Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
-
-Original coursework to add04
-
-### Girl and House
-
-Coursework file needed
-
-Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
-
-Original coursework to add05
-
-### Cartoon Graphic
-
-Coursework file needed
-
-Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
-
-Original coursework to add06
-
-### Logo Design
-
-Coursework file needed
-
-Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
-
-Original coursework to add07
-
-### Working with Text
-
-Coursework file needed
-
-Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
-
-Original coursework to add08
-
-### Working with Animation
-
-Coursework file needed
-
-Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
-
 ## What this portfolio demonstrates
 
 A successful design does more than decorate a page: it makes a message easier to notice, understand and act on. This portfolio connects design vocabulary with visual evidence, responsible sourcing and practical production choices. The theory pages include annotated demonstrations, comparisons and examples of how to apply each concept.
@@ -151,7 +79,7 @@ A successful design does more than decorate a page: it makes a message easier to
  | Visual vocabulary | Explanations and examples of line, shape, texture, space, form and value.
  | Colour decisions | Colour models, palette relationships, contrast and accessible communication.
  | Digital production | Raster/vector comparison, resolution, compression and export decisions.
- | Practical application | Eight coursework slots with guidance for describing process, tools and demonstrated skills.
+ | Practical application | A dedicated Artefacts page with eight coursework slots and guidance for describing process, tools and demonstrated skills.
 
 ## A design process: from brief to finished work
 
@@ -162,48 +90,6 @@ A successful design does more than decorate a page: it makes a message easier to
 - Evaluate and revise. Check accuracy, legibility, visual hierarchy and accessibility. Test the design at its intended size.
 - Export and reflect. Keep the editable master, export a suitable presentation file and explain what worked and what could improve.
 
-## Presenting the eight practical artifacts
-
-For each slot, upload or link the actual work created during the course. The tool categories below are suggestions for documenting the work, not claims about software already used. The completed artifact description must name the real tool and describe the real process.
-
- | Artifact | Skills to explain | Reflection question | Possible tool category
- | House with Lines | Line tools, stroke weight, alignment and geometric construction. | Which lines define the roof, walls, doors and windows? How did you keep edges consistent? | Drawing or vector editor
- | Interactive PowerPoint | Slide navigation, hyperlinks or action buttons, information structure and audience control. | Can a viewer move forward, return home and reach every section without a broken link? | Microsoft PowerPoint
- | Basket of Fruits | Shape construction, colour relationships, grouping, layering and overlap. | How do overlapping shapes and changes in value create a convincing arrangement? | Drawing, painting or vector editor
- | Girl and House | Scene composition, proportion, relative scale and foreground/background relationships. | How are the figure and building arranged so that the scene is clear? | Drawing or illustration editor
- | Cartoon Graphic | Stylisation, expressive lines, simplified forms and a consistent visual character. | Which features did you simplify or exaggerate to communicate personality? | Drawing or illustration editor
- | Logo Design | Visual identity, simplification, contrast, negative space and scalability. | Does the mark remain recognisable in one colour and at a small size? | Vector editor
- | Working with Text | Typography, hierarchy, spacing, alignment and readable text arrangement. | How do type size, weight and spacing show the order in which information should be read? | Text, layout or presentation editor
- | Working with Animation | Timing, sequencing, movement and communication through change. | What does the movement communicate? Can viewers pause or understand it without motion? | Animation or presentation editor
-
-Artifact description template
-
-Title: [Name of artifact]
-
-Purpose and audience: [What the work communicates and who it is for]
-
-Tools actually used: [Software and relevant tools or features]
-
-Process: [Key steps from initial idea to finished output]
-
-Skills demonstrated: [Specific principles, elements and techniques visible in the work]
-
-Evaluation: [One successful decision, one challenge and one improvement]
-
-Evidence: [Embedded artifact, readable preview and functioning original-file link]
-
-Sources: [Any permitted third-party material and its licence]
-
-## Understanding animation: timing and movement
-
-Animation creates the appearance of change through a sequence of frames or changes over time. Timing controls duration; spacing controls how far an object moves between moments; easing changes the apparent acceleration. Motion should support a message rather than distract from it.
-
-Play demonstration
-
-The circle eases between two positions. Pause it to inspect the composition. The demonstration starts paused and respects reduced-motion preferences. This is a generated teaching example, not the student's Working with Animation course artifact.
-
-For the actual artifact, explain the timing, intended message, tools used and export format. Provide a playable file or functioning link, plus a static alternative when useful.
-
 ---
 
 01 / RESPONSIBLE PRACTICE
@@ -212,7 +98,7 @@ For the actual artifact, explain the timing, intended message, tools used and ex
 
 Creative work comes with rights—and responsibilities.
 
-Creative rights01 / 07
+Creative rights01 / 08
 
 ## What is copyright?
 
@@ -291,7 +177,7 @@ Official resources for checking the law: Jamaica Intellectual Property Office (h
 
 Principles describe how visual parts work together to guide attention and communicate.
 
-Structure & rhythm02 / 07
+Structure & rhythm02 / 08
 
 ### Balance
 
@@ -345,7 +231,7 @@ These principles interact. Increasing contrast can create emphasis, while consis
 
 Elements are the visual ingredients. Principles describe how we arrange them.
 
-The visual toolkit03 / 07
+The visual toolkit03 / 08
 
 ### Line
 
@@ -412,7 +298,7 @@ Typography is the selection and arrangement of type. Typeface, weight, size, lin
 
 Colour theory helps designers choose relationships that support mood, hierarchy and legibility.
 
-Palette & personality04 / 07
+Palette & personality04 / 08
 
 A twelve-hue illustrative wheel, not a calibrated colour reference.
 
@@ -485,7 +371,7 @@ The cream background gives the layout a restrained base; dark green carries navi
 
 Choose the format that suits the artwork and its intended size.
 
-Made for the medium05 / 07
+Made for the medium05 / 08
 
 ### Raster graphics
 
@@ -543,13 +429,137 @@ Tracing creates paths from a raster reference, either manually or automatically.
 
 ---
 
-06 / THE DESIGNER
+06 / THE PRACTICAL COLLECTION
+
+# Ideas put into practice.
+
+Eight coursework projects, each with a story to tell. Explore the work, the tools and the thinking behind it.
+
+The coursework collection06 / 08
+
+THE PRACTICE
+
+## The coursework collection.
+
+Eight required artifacts
+
+A place for eight original course projects. The illustrated covers are category markers; coursework previews will appear here when the actual files are added.
+
+Original coursework to add01
+
+### House with Lines
+
+Coursework file needed
+
+Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
+
+Original coursework to add02
+
+### Interactive PowerPoint
+
+Coursework file needed
+
+Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
+
+Original coursework to add03
+
+### Basket of Fruits
+
+Coursework file needed
+
+Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
+
+Original coursework to add04
+
+### Girl and House
+
+Coursework file needed
+
+Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
+
+Original coursework to add05
+
+### Cartoon Graphic
+
+Coursework file needed
+
+Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
+
+Original coursework to add06
+
+### Logo Design
+
+Coursework file needed
+
+Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
+
+Original coursework to add07
+
+### Working with Text
+
+Coursework file needed
+
+Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
+
+Original coursework to add08
+
+### Working with Animation
+
+Coursework file needed
+
+Add your original artifact, the tool you actually used, and a short explanation of the skill demonstrated.
+
+## Presenting the eight practical artifacts
+
+For each slot, upload or link the actual work created during the course. The tool categories below are suggestions for documenting the work, not claims about software already used. The completed artifact description must name the real tool and describe the real process.
+
+ | Artifact | Skills to explain | Reflection question | Possible tool category
+ | House with Lines | Line tools, stroke weight, alignment and geometric construction. | Which lines define the roof, walls, doors and windows? How did you keep edges consistent? | Drawing or vector editor
+ | Interactive PowerPoint | Slide navigation, hyperlinks or action buttons, information structure and audience control. | Can a viewer move forward, return home and reach every section without a broken link? | Microsoft PowerPoint
+ | Basket of Fruits | Shape construction, colour relationships, grouping, layering and overlap. | How do overlapping shapes and changes in value create a convincing arrangement? | Drawing, painting or vector editor
+ | Girl and House | Scene composition, proportion, relative scale and foreground/background relationships. | How are the figure and building arranged so that the scene is clear? | Drawing or illustration editor
+ | Cartoon Graphic | Stylisation, expressive lines, simplified forms and a consistent visual character. | Which features did you simplify or exaggerate to communicate personality? | Drawing or illustration editor
+ | Logo Design | Visual identity, simplification, contrast, negative space and scalability. | Does the mark remain recognisable in one colour and at a small size? | Vector editor
+ | Working with Text | Typography, hierarchy, spacing, alignment and readable text arrangement. | How do type size, weight and spacing show the order in which information should be read? | Text, layout or presentation editor
+ | Working with Animation | Timing, sequencing, movement and communication through change. | What does the movement communicate? Can viewers pause or understand it without motion? | Animation or presentation editor
+
+Artifact description template
+
+Title: [Name of artifact]
+
+Purpose and audience: [What the work communicates and who it is for]
+
+Tools actually used: [Software and relevant tools or features]
+
+Process: [Key steps from initial idea to finished output]
+
+Skills demonstrated: [Specific principles, elements and techniques visible in the work]
+
+Evaluation: [One successful decision, one challenge and one improvement]
+
+Evidence: [Embedded artifact, readable preview and functioning original-file link]
+
+Sources: [Any permitted third-party material and its licence]
+
+## Understanding animation: timing and movement
+
+Animation creates the appearance of change through a sequence of frames or changes over time. Timing controls duration; spacing controls how far an object moves between moments; easing changes the apparent acceleration. Motion should support a message rather than distract from it.
+
+Play demonstration
+
+The circle eases between two positions. Pause it to inspect the composition. The demonstration starts paused and respects reduced-motion preferences. This is a generated teaching example, not the student's Working with Animation course artifact.
+
+For the actual artifact, explain the timing, intended message, tools used and export format. Provide a playable file or functioning link, plus a static alternative when useful.
+
+---
+
+07 / THE DESIGNER
 
 # Behind the portfolio.
 
 Melicia Parker · Introduction to Graphics Design
 
-Meet the designer06 / 07
+Meet the designer07 / 08
 
 Student name: Melicia Parker
 Course: Introduction to Graphics Design
@@ -566,7 +576,7 @@ My name is Melicia Parker, and this portfolio is prepared for Introduction to Gr
 
 This electronic portfolio was prepared for the Introduction to Graphics Design course at Mico University College, under the instruction of Ms. Sandy Shaw. It brings together explanations of design concepts, visual demonstrations and a collection area for the eight required practical artifacts.
 
-Its organisation follows the assignment's eight required pages: Home, Copyright in Graphics Design (Jamaica), Principles, Elements, Color Theory, Raster vs Vector Graphics, Author and Bibliography.
+Its organisation includes the assignment's eight required content pages: Home, Copyright in Graphics Design (Jamaica), Principles, Elements, Color Theory, Raster vs Vector Graphics, Author and Bibliography. A separate Artefacts page presents the practical-work collection.
 
 ## Reflection framework
 
@@ -579,7 +589,7 @@ The following prompts are provided for Melicia to complete from her actual exper
 
 ## Submission checklist
 
-- All eight pages are present and clearly labelled.
+- All eight required content pages and the dedicated Artefacts page are present and clearly labelled.
 - The eight original artifacts are uploaded, embedded or linked.
 - Each artifact names the actual tools used and explains the skill demonstrated.
 - Practical files and links open correctly for the intended viewer.
@@ -590,7 +600,7 @@ The following prompts are provided for Melicia to complete from her actual exper
 
 ---
 
-07 / ACKNOWLEDGEMENTS
+08 / ACKNOWLEDGEMENTS
 
 # Sources & credits.
 
