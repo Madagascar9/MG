@@ -76,7 +76,7 @@ A successful design does more than decorate a page: it makes a message easier to
  | Visual vocabulary | Explanations and examples of line, shape, texture, space, form and value.
  | Colour decisions | Colour models, palette relationships, contrast and accessible communication.
  | Digital production | Raster/vector comparison, resolution, compression and export decisions.
- | Practical application | A dedicated Artefacts page presenting eight project categories and their design focus.
+ | Practical application | A dedicated Artefacts page presenting seven project categories and their design focus.
 
 ## A design process: from brief to finished work
 
@@ -446,103 +446,69 @@ Connect the theory with the practical collection.
 
 # Ideas put into practice.
 
-Eight coursework projects, each with a story to tell. Explore the work, the tools and the thinking behind it.
+Seven coursework projects exploring illustration, composition, identity and typography.
 
-THE PRACTICE
-
-## The coursework collection.
-
-Eight required artifacts
-
-Eight projects exploring illustration, composition, identity, typography and motion.
-
-Illustrated category cover01
+## The coursework collection
 
 ### House with Lines
 
-Preview to be added
+**Software:** Microsoft Paint
 
-An exploration of line weight, geometric construction and alignment in a house illustration.
+The Line and Shape tools define the roof, walls, windows and door, while Fill with Color creates the solid areas. Bold outlines, repeated window shapes and contrasting colours demonstrate geometric construction, repetition and visual emphasis.
 
-Illustrated category cover02
+![House with Lines](assets/Melicia%20house%20Intro%20to%20graphics%20activity%201.png)
 
 ### Interactive PowerPoint
 
-Preview to be added
+**Software:** Microsoft PowerPoint
 
-An interactive presentation exploring slide structure, navigation and clear visual communication.
+Slide layouts and text boxes organise the content, while hyperlinks and action buttons support navigation. This demonstrates visual hierarchy, consistent presentation design and interactive communication.
 
-Illustrated category cover03
+Preview to be added.
 
 ### Basket of Fruits
 
-Preview to be added
+**Software:** Photopea
 
-A study of organic shapes, layering and colour relationships in a fruit arrangement.
+Selection and shape tools, layers and colour fills support a composition of organic fruit shapes. This demonstrates grouping, overlap, colour relationships and depth.
 
-Illustrated category cover04
+Preview to be added.
 
 ### Girl and House
 
-Preview to be added
+**Software:** Photopea
 
-A composition exploring proportion, relative scale and foreground–background relationships.
+Selection tools, layers and resizing support the arrangement of a figure and a house within a scene. This demonstrates proportion, relative scale and foreground–background relationships.
 
-Illustrated category cover05
+Preview to be added.
 
 ### Cartoon Graphic
 
-Preview to be added
+**Software:** Photopea
 
-An exploration of simplified forms, expressive lines and visual character.
+Shape, brush and selection tools support simplified forms and expressive details. This demonstrates stylisation, line control and visual character.
 
-Illustrated category cover06
+Preview to be added.
 
 ### Logo Design
 
-Preview to be added
+**Software:** Photopea
 
-A visual-identity study focused on simplicity, negative space and scalability.
+Shape and text tools, layers and alignment support a clear visual identity. This demonstrates simplicity, contrast, negative space and balance.
 
-Illustrated category cover07
+Preview to be added.
 
 ### Working with Text
 
-Preview to be added
+**Software:** Photopea
 
-A typography study exploring hierarchy, alignment, spacing and readable text arrangement.
+The Type tool, font settings and layer positioning support the arrangement of text. This demonstrates typography, spacing, alignment and readable visual hierarchy.
 
-Illustrated category cover08
+Preview to be added.
 
-### Working with Animation
+Previous page: Raster & Vector
 
-Preview to be added
-
-A motion study exploring timing, sequencing and purposeful movement.
-
-## Design skills across the collection
-
- | Artifact | Design focus
- | House with Lines | Consistent strokes, alignment and geometric construction.
- | Interactive PowerPoint | Navigation, information hierarchy and audience interaction.
- | Basket of Fruits | Organic shapes, colour, overlap and depth.
- | Girl and House | Proportion, scale and scene composition.
- | Cartoon Graphic | Stylisation, expression and visual character.
- | Logo Design | Identity, simplicity, contrast and scalability.
- | Working with Text | Typography, spacing, alignment and hierarchy.
- | Working with Animation | Timing, sequencing, movement and communication.
-
-## Learning demonstration: timing and movement
-
-Animation creates the appearance of change through a sequence of frames or changes over time. Timing controls duration; spacing controls how far an object moves between moments; easing changes the apparent acceleration. Motion should support a message rather than distract from it.
-
-Play demonstration
-
-The circle eases between two positions to demonstrate timing and movement. Use the play and pause control to compare motion with a static composition. Reduced-motion preferences are respected.
-
-Previous page← Raster & VectorNext pageAuthor →
-
-Meet the student behind the portfolio.
+Next page: Author
 
 ---
 

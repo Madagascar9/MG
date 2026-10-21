@@ -1,6 +1,6 @@
 # Images for the Google Sites portfolio
 
-Nine coordinated, AI-generated photographic-style banners. Each image is decorative; use the actual coursework files for the eight practical artifacts. Click a linked page name to open the full-size image, then use GitHub's download button or open the original image and save it.
+Nine coordinated, AI-generated photographic-style banners. Each image is decorative; use the actual coursework files for the seven practical artifacts. Click a linked page name to open the full-size image, then use GitHub's download button or open the original image and save it.
 
 ## [Home](home.png)
 

@@ -63,14 +63,3 @@ if (paletteChoice) {
   paletteChoice.addEventListener('change', showPalette);
   showPalette();
 }
-
-const motionButton = document.querySelector('#motion-toggle');
-if (motionButton) {
-  motionButton.addEventListener('click', () => {
-    const stage = document.querySelector('#motion-stage');
-    const running = !stage.classList.contains('running');
-    stage.classList.toggle('running', running);
-    motionButton.setAttribute('aria-pressed', String(running));
-    motionButton.textContent = running ? 'Pause demonstration' : 'Play demonstration';
-  });
-}
