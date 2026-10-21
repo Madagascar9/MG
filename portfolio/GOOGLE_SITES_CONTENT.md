@@ -560,7 +560,7 @@ Assignment due date: November 30, 2026
 
 ## About me
 
-My name is Melicia Parker, and I am a student at Mico University College. This portfolio is part of my Introduction to Graphics Design course, taught by Ms. Sandy Shaw. It brings together my study of visual communication, design concepts and practical coursework.
+My name is Melicia Parker, and I am a fourth-year Computer Science major at Mico University College. This portfolio is part of my Introduction to Graphics Design course, taught by Ms. Sandy Shaw. It brings together my academic focus on technology with my exploration of visual communication, design concepts and creative expression.
 
 
 
