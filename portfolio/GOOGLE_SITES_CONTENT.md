@@ -566,13 +566,9 @@ My studies also include Comparative Programming Languages, with coursework invol
 
 
 
-## My approach to design
-
 I value originality, clear organisation and attention to detail. When developing this portfolio, I have focused on making each page visually appealing while ensuring that its content has a clear purpose. I use references to inspire presentation and organisation, while keeping the work and its sources accurately identified.
 
 
-
-## What this portfolio represents
 
 This portfolio is a space to connect design theory with practical application. Through its explanations, visual examples and artefact collection, I aim to show how colour, typography, composition and digital formats work together to communicate effectively.
 
