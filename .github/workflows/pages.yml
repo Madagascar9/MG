@@ -1,11 +1,8 @@
 name: Publish portfolio
 
+# Branch-based GitHub Pages already publishes main automatically.
+# Run this optional workflow only when Pages is configured for GitHub Actions.
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'portfolio/**'
-      - '.github/workflows/pages.yml'
   workflow_dispatch:
 
 permissions:
