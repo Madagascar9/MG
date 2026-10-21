@@ -522,6 +522,7 @@ Student name: Melicia Parker
 Course: Introduction to Graphics Design
 Institution: Mico University College
 Instructor: Ms. Sandy Shaw
+Date of submission: To be entered on submission
 Assignment due date: November 30, 2026
 
 ## About me
