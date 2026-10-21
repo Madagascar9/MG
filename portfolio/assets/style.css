@@ -117,3 +117,5 @@ footer{background:var(--ink);color:var(--paper);border:0;font-size:10px;padding:
 .artifact-image-link{display:flex;align-items:center;justify-content:center;background:white;min-height:210px;padding:10px}.artifact-image{display:block;width:100%;height:auto;aspect-ratio:2/1;object-fit:contain}.artifact-uploaded>.number{background:var(--paper);border-radius:50%;padding:3px 7px}.artifact-software{color:var(--ink)}
 
 .artifact-image--basket{aspect-ratio:8/5}
+
+.artifact-image--scene{aspect-ratio:4/3}

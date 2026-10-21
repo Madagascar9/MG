@@ -478,9 +478,9 @@ Photopea's selection, masking and transform tools support this layered fruit-bas
 
 **Software:** Photopea
 
-Selection tools, layers and resizing support the arrangement of a figure and a house within a scene. This demonstrates proportion, relative scale and foreground–background relationships.
+Selection and masking tools blend the girl, house, sky and foreground plants across layers. Resizing, placement and colour adjustments create a unified scene, demonstrating image compositing, proportion, depth and an atmospheric mood.
 
-Preview to be added.
+![Girl and House](assets/Girl%20and%20the%20House%20Artifact.png)
 
 ### Cartoon Graphic
 
