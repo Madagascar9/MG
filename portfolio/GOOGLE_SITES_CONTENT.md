@@ -2,11 +2,11 @@
 
 ---
 
-MELICIA PARKER / CREATIVE PORTFOLIO
+MELICIA PARKER / GRAPHICS DESIGN PORTFOLIO
 
-# A little thought. A lot of design.
+# The Visual Canvas.
 
-A collection of ideas, visual experiments and design thinking. Discover the colour, form and intention behind every composition.
+A graphics design portfolio exploring colour, form, typography and visual storytelling. Discover the ideas and techniques behind each composition.
 
 Explore the portfolio →View coursework →
 

@@ -1,4 +1,4 @@
-# Graphics design portfolio
+# The Visual Canvas
 
 Nine static HTML pages based on the uploaded portfolio assignment. No packages or build are required.
 

@@ -119,3 +119,7 @@ footer{background:var(--ink);color:var(--paper);border:0;font-size:10px;padding:
 .artifact-image--basket{aspect-ratio:8/5}
 
 .artifact-image--scene{aspect-ratio:4/3}
+
+/* The Visual Canvas wordmark and geometric canvas symbol. */
+.brand{display:flex;align-items:center;gap:9px;letter-spacing:normal}.brand-mark{width:46px;height:46px;flex:0 0 46px;margin-right:0;background:transparent;border-radius:0;overflow:visible}.brand-mark img{display:block;width:64px;height:64px;max-width:none;flex-shrink:0}.brand-wordmark{display:flex;flex-direction:column;gap:5px}.brand-wordmark strong{font:600 19px Georgia,serif;letter-spacing:-.3px;line-height:1.1}.brand-wordmark>span{font:normal 8px Arial,sans-serif;letter-spacing:1.5px;line-height:1.2}@media(max-width:650px){.brand{gap:5px}.brand-mark{width:40px;height:40px;flex-basis:40px}.brand-mark img{width:56px;height:56px}.brand-wordmark strong{font-size:17px}.brand-wordmark>span{font-size:7px;letter-spacing:1px}}
+@media(max-width:380px){header{gap:12px}.brand-wordmark strong{font-size:16px}.brand-wordmark>span{font-size:6.5px;letter-spacing:.8px}}
