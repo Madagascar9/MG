@@ -12,7 +12,7 @@ For local use, open `index.html` directly. All assets are local. Deploy the cont
 
 ## Before submission
 
-- Confirm the submission date in `author.html`. Student, course, institution and instructor are filled from the supplied details.
+- Review the Author page biography and confirmed student, course, institution and instructor details.
 - Add the student's actual eight course artifacts to the Home page collection. For each, include the actual tools used and a brief skill explanation. Do not describe the generated theory illustrations as coursework.
 - Verify the legal overview against Jamaica's current Copyright Act and amendments. JIPO and WIPO access was blocked, so these remain explicitly unconsulted references. Two official MDN technical guides were consulted for image-format and contrast guidance.
 - Add consistent references for every source, image, video and font actually used.
