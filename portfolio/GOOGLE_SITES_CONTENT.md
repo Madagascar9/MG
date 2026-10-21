@@ -562,8 +562,6 @@ Assignment due date: November 30, 2026
 
 My name is Melicia Parker, and I am a student at Mico University College. This portfolio is part of my Introduction to Graphics Design course, taught by Ms. Sandy Shaw. It brings together my study of visual communication, design concepts and practical coursework.
 
-My studies also include Comparative Programming Languages, with coursework involving Pascal, C++ and Java. Working across these subjects allows me to explore both creative expression and structured problem-solving.
-
 
 
 I value originality, clear organisation and attention to detail. When developing this portfolio, I have focused on making each page visually appealing while ensuring that its content has a clear purpose. I use references to inspire presentation and organisation, while keeping the work and its sources accurately identified.
