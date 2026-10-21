@@ -470,9 +470,9 @@ Preview to be added.
 
 **Software:** Photopea
 
-Selection and shape tools, layers and colour fills support a composition of organic fruit shapes. This demonstrates grouping, overlap, colour relationships and depth.
+Photopea's selection, masking and transform tools support this layered fruit-basket scene. The composition demonstrates image compositing, proportion, overlap and depth, while the bright fruit contrasts with the dark patterned background.
 
-Preview to be added.
+![Basket of Fruits](assets/Final%20Basket%20of%20Fruit%20Artifact.png)
 
 ### Girl and House
 
