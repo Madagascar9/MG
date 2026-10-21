@@ -561,10 +561,6 @@ Explore the sources supporting the portfolio.
 - World Intellectual Property Organization. (n.d.). WIPO Lex: Jamaica (https://www.wipo.int/wipolex/en/legislation/members/profile/JM).
 - World Wide Web Consortium. (2023). Web Content Accessibility Guidelines (WCAG) 2.2 (https://www.w3.org/TR/WCAG22/).
 
-## Visual credits
-
-The explanatory text, photographic-style banners, illustrations and interactive learning demonstrations were developed with AI assistance. The author portrait is a photograph supplied by Melicia Parker. Coursework artifacts are identified separately on the Artefacts page.
-
 Previous page← AuthorReturn to the beginningHome →
 
 Begin with the ideas behind the work.
