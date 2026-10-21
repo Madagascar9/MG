@@ -560,6 +560,8 @@ Assignment due date: November 30, 2026
 
 ## About me
 
+![Melicia Parker](assets/professional%20headshot.jpg)
+
 My name is Melicia Parker, and I am a fourth-year Computer Science major at Mico University College. This portfolio is part of my Introduction to Graphics Design course, taught by Ms. Sandy Shaw. It brings together my academic focus on technology with my exploration of visual communication, design concepts and creative expression.
 
 
@@ -594,7 +596,7 @@ Explore the sources supporting the portfolio.
 
 ## Visual credits
 
-The explanatory text, photographic-style banners, illustrations and interactive learning demonstrations were developed with AI assistance. Coursework artifacts are identified separately on the Artefacts page.
+The explanatory text, photographic-style banners, illustrations and interactive learning demonstrations were developed with AI assistance. The author portrait is a photograph supplied by Melicia Parker. Coursework artifacts are identified separately on the Artefacts page.
 
 Previous page← AuthorReturn to the beginningHome →
 
