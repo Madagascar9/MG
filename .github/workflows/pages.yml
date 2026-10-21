@@ -28,10 +28,10 @@ jobs:
         uses: actions/checkout@v4
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
-      - name: Upload portfolio
+      - name: Upload website
         uses: actions/upload-pages-artifact@v3
         with:
-          path: portfolio
+          path: .
       - name: Publish website
         id: deployment
         uses: actions/deploy-pages@v5
