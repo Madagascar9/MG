@@ -506,6 +506,16 @@ The Type tool, font settings and layer positioning support the arrangement of te
 
 Preview to be added.
 
+## Additional Work
+
+### Space Composition
+
+**Software:** Photopea
+
+Selection and masking tools, layered images and transforms combine the astronaut, planetary landscape, asteroid ring and comets. Colour adjustments and lighting effects unify the scene, demonstrating compositing, scale, depth and visual storytelling.
+
+![Space Composition](assets/space-artwork.png)
+
 Previous page: Raster & Vector
 
 Next page: Author
