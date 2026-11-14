@@ -47,4 +47,10 @@ The local HTML site includes Previous/Next links and progressive cross-document 
 
 The nine pages retain the required structure. Home includes my welcome, an overview of graphic design and my portfolio rationale. Principles covers thirteen major principles, balance types, Gestalt relationships and grids; Elements covers point, line, shape, texture, space, form, value, colour and typography. Colour Theory includes traditional colour groups, colour models, palette relationships, perception and accessibility. Copyright and raster/vector explanations include applications to my portfolio. The BCcampus design textbook is cited for the chapters actually consulted.
 
-The three uploaded artefacts and their software descriptions remain in place. Four required project previews are pending. Working with Animation remains removed; the Space artwork remains unpublished as requested. No submission date or additional personal details have been invented.
+The four uploaded artefacts and their software descriptions remain in place. Three required project previews are pending. Working with Animation remains removed; the Space artwork remains unpublished as requested. No submission date or additional personal details have been invented.
+
+## Interactive PowerPoint
+
+The Artefacts page includes the 24-slide IT Device Detective lesson, an on-demand Microsoft Office viewer, a full-window viewer link and downloads. The uploaded original PPTX is unchanged. A separate web viewing copy corrects the Introductory Activity menu destinations and three mismatched button-background links while preserving all slide text, order and media.
+
+Local browser checks verified the viewer loader, download links and mobile layout. All internal slide targets in the viewing copy were checked. The Office service returned HTTP 200 through the trusted HTTP client, but full playback in the cloud browser could not be verified because its certificate trust configuration blocked the viewer. No certificate-verification bypass was applied.

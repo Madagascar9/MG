@@ -63,3 +63,14 @@ if (paletteChoice) {
   paletteChoice.addEventListener('change', showPalette);
   showPalette();
 }
+
+const presentationStart = document.querySelector('#presentation-start');
+if (presentationStart) {
+  presentationStart.addEventListener('click', () => {
+    const frame = document.querySelector('#presentation-iframe');
+    frame.src = presentationStart.dataset.viewerSrc;
+    frame.hidden = false;
+    document.querySelector('#presentation-placeholder').hidden = true;
+    frame.focus();
+  }, { once: true });
+}

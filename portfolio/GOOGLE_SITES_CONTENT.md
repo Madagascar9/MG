@@ -691,15 +691,13 @@ Illustrated category cover02
 
 ### Interactive PowerPoint
 
-Preview to be added
+**Software:** Microsoft PowerPoint
 
-Software: Microsoft PowerPoint
+My 24-slide IT Device Detective lesson introduces Grade 8 learners to input and output devices. Slide layouts, text boxes, hyperlinks and action buttons organise activities and a feedback quiz, demonstrating visual hierarchy, consistent styling and interactive instructional design.
 
-Slide layouts and text boxes organise the content, while hyperlinks and action buttons support navigation. This demonstrates visual hierarchy, consistent presentation design and interactive communication.
+[Open slideshow](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fmadagascar9.github.io%2FMG%2Fportfolio%2Fassets%2FInteractive%2520IT%2520Asynchronous%2520Final%2520artefact%2520-%2520web%2520copy.pptx)
 
-![Fruit basket arranged on a red-and-white covered table against dark patterned wallpaper, with overhead lighting and a framed photograph.](./assets/Final%20Basket%20of%20Fruit%20Artifact.png)
-
-03
+[Download original](assets/Interactive%20IT%20Asynchronous%20Final%20artefact.pptx)
 
 ### Basket of Fruits
 
