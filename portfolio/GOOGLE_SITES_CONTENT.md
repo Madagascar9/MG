@@ -747,11 +747,11 @@ Illustrated category cover07
 
 ### Working with Text
 
-Preview to be added
-
 Software: Photopea
 
-The Type tool, font settings and layer positioning support the arrangement of text. This demonstrates typography, spacing, alignment and readable visual hierarchy.
+My business card combines a portrait with a prominent institution name and aligned contact details. Photopea’s Type tool, font sizing, colour settings and layer positioning support clear hierarchy, spacing and contrast. The navy-and-gold palette connects the typography with the surrounding graphic elements.
+
+![Working with Text business card](assets/business-card.png)
 
 ## Design skills across the collection
 

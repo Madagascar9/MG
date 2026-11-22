@@ -47,7 +47,7 @@ The local HTML site includes Previous/Next links and progressive cross-document 
 
 The nine pages retain the required structure. Home includes my welcome, an overview of graphic design and my portfolio rationale. Principles covers thirteen major principles, balance types, Gestalt relationships and grids; Elements covers point, line, shape, texture, space, form, value, colour and typography. Colour Theory includes traditional colour groups, colour models, palette relationships, perception and accessibility. Copyright and raster/vector explanations include applications to my portfolio. The BCcampus design textbook is cited for the chapters actually consulted.
 
-The four uploaded artefacts and their software descriptions remain in place. Three required project previews are pending. Working with Animation remains removed; the Space artwork remains unpublished as requested. No submission date or additional personal details have been invented.
+The five uploaded artefacts and their software descriptions remain in place. Two required project previews are pending. Working with Animation remains removed; the Space artwork remains unpublished as requested. No submission date or additional personal details have been invented.
 
 ## Interactive PowerPoint
 
