@@ -82,7 +82,7 @@ A successful design does more than decorate a page: it makes a message easier to
  | Visual vocabulary | Explanations and examples of line, shape, texture, space, form and value.
  | Colour decisions | Colour models, palette relationships, contrast and accessible communication.
  | Digital production | Raster/vector comparison, resolution, compression and export decisions.
- | Practical application | A dedicated Artefacts page presenting seven project categories and their design focus.
+ | Practical application | A dedicated Artefacts page presenting six project categories and their design focus.
 
 ## My design process: from brief to finished work
 
@@ -669,9 +669,9 @@ THE PRACTICE
 
 ## My coursework collection.
 
-Seven required artifacts
+Six required artifacts
 
-Seven projects exploring illustration, composition, identity and typography.
+Six projects exploring illustration, composition, interaction and typography.
 
 ![House illustration with a blue roof, pale yellow walls, blue windows, a yellow door and green shrubs.](./assets/Melicia%20house%20Intro%20to%20graphics%20activity%201.png)
 
@@ -733,18 +733,6 @@ Software: Photopea
 
 Shape, brush and selection tools support simplified forms and expressive details. This demonstrates stylisation, line control and visual character.
 
-Illustrated category cover06
-
-### Logo Design
-
-Preview to be added
-
-Software: Photopea
-
-Shape and text tools, layers and alignment support a clear visual identity. This demonstrates simplicity, contrast, negative space and balance.
-
-Illustrated category cover07
-
 ### Working with Text
 
 Software: Photopea
@@ -761,7 +749,6 @@ My business card combines a portrait with a prominent institution name and align
  | Basket of Fruits | Organic shapes, colour, overlap and depth.
  | Girl and House | Proportion, scale and scene composition.
  | Cartoon Graphic | Stylisation, expression and visual character.
- | Logo Design | Identity, simplicity, contrast and scalability.
  | Working with Text | Typography, spacing, alignment and hierarchy.
 
 Previous page← Raster & VectorNext pageAuthor →

@@ -13,7 +13,7 @@ For local use, open `index.html` directly. All assets are local. The portfolio i
 ## Before submission
 
 - Review the Author page biography and confirmed student, course, institution and instructor details.
-- Add the student's actual seven course artifacts to the Artefacts page collection. For each, include the actual tools used and a brief skill explanation. Do not describe the generated theory illustrations as coursework.
+- Add the student's actual six course artifacts to the Artefacts page collection. For each, include the actual tools used and a brief skill explanation. Do not describe the generated theory illustrations as coursework.
 - Verify the legal overview against Jamaica's current Copyright Act and amendments. JIPO and WIPO access was blocked, so these remain explicitly unconsulted references. Two official MDN technical guides were consulted for image-format and contrast guidance.
 - Add consistent references for every source, image, video and font actually used.
 - Review all AI-assisted explanations and follow the instructor's authorship rules.
@@ -35,7 +35,7 @@ Browser checks cover all nine pages at desktop and mobile widths, navigation, mo
 
 The responsive design uses an original geometric cover illustration, a cream/forest-green base with sage, peach, lilac and gold accents, illustrated navigation cards, section motifs, and clearly labelled category covers for the pending coursework. Covers are decorative category markers rather than completed student artifacts. All assets remain local, with no external font or image dependency.
 
-The seven project categories and design-skills overview are on `artefacts.html`. The Home page links to that collection. The primary navigation contains nine pages.
+The six project categories and design-skills overview are on `artefacts.html`. The Home page links to that collection. The primary navigation contains nine pages.
 
 ## Page images and navigation
 
@@ -47,7 +47,7 @@ The local HTML site includes Previous/Next links and progressive cross-document 
 
 The nine pages retain the required structure. Home includes my welcome, an overview of graphic design and my portfolio rationale. Principles covers thirteen major principles, balance types, Gestalt relationships and grids; Elements covers point, line, shape, texture, space, form, value, colour and typography. Colour Theory includes traditional colour groups, colour models, palette relationships, perception and accessibility. Copyright and raster/vector explanations include applications to my portfolio. The BCcampus design textbook is cited for the chapters actually consulted.
 
-The five uploaded artefacts and their software descriptions remain in place. Two required project previews are pending. Working with Animation remains removed; the Space artwork remains unpublished as requested. No submission date or additional personal details have been invented.
+The five uploaded artefacts and their software descriptions remain in place. One required project preview is pending. Working with Animation remains removed; the Space artwork remains unpublished as requested. No submission date or additional personal details have been invented.
 
 ## Interactive PowerPoint
 
